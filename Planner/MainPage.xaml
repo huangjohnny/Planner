@@ -10,6 +10,7 @@
     <Grid Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
         <Rectangle x:Name="titleBox" Fill="#FFACD2FC" HorizontalAlignment="Left" Height="100" Stroke="Black" VerticalAlignment="Top" Width="1440"/>
         <TextBlock x:Name="title" HorizontalAlignment="Left" TextWrapping="Wrap" Text="Planner 2018" VerticalAlignment="Top" Height="79" Width="422" Margin="532,10,0,0" FontWeight="SemiBold" FontSize="72" FontFamily="Segoe UI Light"/>
+        <GridView HorizontalAlignment="Left" Height="763" Margin="51,153,0,0" VerticalAlignment="Top" Width="1341" FocusVisualPrimaryBrush="#FFB8EEF3" BorderThickness="1"/>
 
     </Grid>
 </Page>

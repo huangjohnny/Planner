@@ -26,5 +26,10 @@ namespace Planner
         {
             this.InitializeComponent();
         }
+
+        private void GridView_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+
+        }
     }
 }
